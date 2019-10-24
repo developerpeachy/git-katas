@@ -1,4 +1,4 @@
-# Git Kata: 3-Way Merge
+# Git problem number one: 3-Way Merge
 
 ## Setup
 
